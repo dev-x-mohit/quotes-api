@@ -10,11 +10,7 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "dependencies": {
-    "uuid": "^14.0.2"
-  },
   "devDependencies": {
-    "@types/uuid": "^10.0.0",
     "@vercel/node": "^16.0.2"
   }
 }
